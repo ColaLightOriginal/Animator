@@ -20,24 +20,25 @@ Michał Meina ( mich@fizyka.umk.pl ), Patryk Rutkowski ( colalightoriginal@gmail
 ## Klawiszologia
 
 Klawiatura numeryczna:
-Enter - Zrób zdjęcie
-Num0 - Odtwórz film
-Num1 - Zwolnij odtwarzanie
-Num4 - Przyśpiesz odtwarzanie
-Num7 - Prawo
-Num8 - Lewo
-* - góra
-Num9 - dół
+* Enter - Zrób zdjęcie
+* Num0 - Odtwórz film
+* Num1 - Zwolnij odtwarzanie
+* Num4 - Przyśpiesz odtwarzanie
+* Num7 - Prawo
+* Num8 - Lewo
+* * - góra
+* Num9 - dół
 
 Klawiatura Standardowa/ikonki:
-Enter/Ikonka kamery - Zrób zdjęcie
-Ikonka play - Odtwórz film
-Ikonka ducha - tryb ducha
-Ikonka kliszy z plusem - dodanie nowego filmu
-Ikonka kliszy - wybór filmu
-Ikonka dyskietki - zapis filmu (filmy zapisują się w katalogu anims i numerze filmu)
-Ikonka nutki - Zarzut bitem
-Żółw i samochód - Zwolnij/przyśpiesz odtwarzanie
+* Enter/Ikonka kamery - Zrób zdjęcie
+* Ikonka play - Odtwórz film
+* Ikonka ducha - tryb ducha
+* Ikonka kliszy z plusem - dodanie nowego filmu
+* Ikonka kliszy - wybór filmu
+* Ikonka dyskietki - zapis filmu (filmy zapisują się w katalogu anims i numerze filmu)
+* Ikonka nutki - Zarzut bitem
+* Żółw i samochód - Zwolnij/przyśpiesz odtwarzanie
+
 
 ## Licencja
 
